@@ -1,6 +1,13 @@
 # Rock Paper Scissors Game
 
-Classic game developed using Reactjs.
+Classic game developed using Reactjs and Vite.
+
+## Setup
+
+In your project folder, run the following commands:
+
+- npm install
+- npm run dev
 
 ## How To Play:
 
